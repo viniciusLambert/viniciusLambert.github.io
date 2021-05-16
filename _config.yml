@@ -1,5 +1,6 @@
-layout: sidebar
-style: light
+layout: sidebar #stacked 
+style: light #dark
+
 
 plugins:
   - jekyll-octicons
@@ -28,31 +29,33 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: vinicius.lambert
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: vinicius-lambert-aa14b5143
   # mastodon: your_username
-  # medium: your_username
+  medium: viniciuslambert
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: osupernormal
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-  # youtube: your_username
+  youtube: channel/UCT8-ikO6shsqGWAWqNfBtGA
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 
-  - name: Web design
+  - name: Flutter
+    web_url: https://github.com/topics/flutter
+    image_url: https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Devops
+    web_url: https://github.com/topics/devops
+    image_url: https://img.mandic.com.br/blog/2018/02/devops-process.png
